@@ -57,6 +57,3 @@ This project analyzes airline delay performance for December 2019 and December 2
 - Conditional Formatting
 - Interactive Dashboard Design
 - Business Insight Generation
-
-## Project Level
-Intermediate Power BI Business Intelligence Project
